@@ -1,1 +1,1 @@
-# YOLOV5-for-tablular-data-recognition
+# OCR-for-Table-Recognition-System
